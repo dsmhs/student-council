@@ -6,13 +6,24 @@
 
 ### 제시 방법
 1. Issues 탭에서 New issue를 누른다.
-![사진](Screenshots/screenshot1.png)
+![사진](images/screenshot1.png)
 2. 안건에 대하여 알기 쉽게 제목을 작성하고 안건에 관한 내용을 자세히 작성한다.
-![사진](Screenshots/screenshot2.png)
+![사진](images/screenshot2.png)
+
+#### 이슈 라벨 의미
+라벨|의미|close 되는 시점 
+-|-|--
+![bug](images/bug.jpg)| 고치길 원하는 학교의 문제|문제 수정시
+![duplicate](images/duplicate.jpg)|내용이 타 항목과 중복됨|원본 링크를 남긴 후
+![enhancement](images/enhancement.jpg)|학교에 추가되었으면 하는 것|추가시
+![help wanted](images/help-wanted.jpg)|도움 요청|해결시
+![invalid](images/invalid.jpg)|실현 불가능|안 되는 이유 작성 후
+![question](images/question.jpg)|질문|해결 및 납득시
+![wontfix](images/wontfix.jpg)|고치지 않을 것|고치지 않는 이유 작성 후
 
 ### 안건 진행
 1. 학생회는 안건의 진행 상황을 코멘트를 통해 알린다.
-![사진](Screenshots/screenshot3.png)
+![사진](images/screenshot3.png)
 2. 해결 시 코멘트 후 이슈를 닫는다.
 
 ## 회의 내용 공개
