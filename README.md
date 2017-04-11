@@ -9,6 +9,8 @@
 ![사진](images/screenshot1.png)
 2. 안건에 대하여 알기 쉽게 제목을 작성하고 안건에 관한 내용을 자세히 작성한다.
 ![사진](images/screenshot2.png)
+3. (Optional) 작성 후 Label를 붙인다. _(Label의 각각의 의미는 밑 표를 참고하라)_
+![사진](images/screenshot4.png)
 
 #### 이슈 라벨 의미
 라벨|의미|close 되는 시점 
