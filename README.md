@@ -20,6 +20,7 @@
 ![enhancement](images/enhancement.jpg)|학교에 추가되었으면 하는 것|추가시
 ![help wanted](images/help-wanted.jpg)|도움 요청|해결시
 ![invalid](images/invalid.jpg)|실현 불가능|안 되는 이유 작성 후
+![notice](images/notice.jpg)|공지|공지 내용을 모두가 알게 된 이후
 ![question](images/question.jpg)|질문|해결 및 납득시
 ![wontfix](images/wontfix.jpg)|고치지 않을 것|고치지 않는 이유 작성 후
 
