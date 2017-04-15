@@ -6,27 +6,35 @@
 
 ### 제시 방법
 1. Issues 탭에서 New issue를 누른다.
-![사진](images/screenshot1.png)
+![사진](images/screenshots/screenshot1.png)
 2. 안건에 대하여 알기 쉽게 제목을 작성하고 안건에 관한 내용을 자세히 작성한다.
-![사진](images/screenshot2.png)
+![사진](images/screenshots/screenshot2.png)
 3. (Optional) 작성 후 Label를 붙인다. _(Label의 각각의 의미는 밑 표를 참고하라)_
-![사진](images/screenshot4.PNG)
+![사진](images/screenshots/screenshot3.png)
 
 #### 이슈 라벨 의미
-라벨|의미|close 되는 시점 
--|-|--
-![bug](images/bug.jpg)| 고치길 원하는 학교의 문제|문제 수정시
-![duplicate](images/duplicate.jpg)|내용이 타 항목과 중복됨|원본 링크를 남긴 후
-![enhancement](images/enhancement.jpg)|학교에 추가되었으면 하는 것|추가시
-![help wanted](images/help-wanted.jpg)|도움 요청|해결시
-![invalid](images/invalid.jpg)|실현 불가능|안 되는 이유 작성 후
-![notice](images/notice.jpg)|공지|공지 내용을 모두가 알게 된 이후
-![question](images/question.jpg)|질문|해결 및 납득시
-![wontfix](images/wontfix.jpg)|고치지 않을 것|고치지 않는 이유 작성 후
+**학생 라벨**
+라벨|의미 
+-|-
+![bug](images/labels/bug.jpg)| 고치길 원하는 학교의 문제
+![suggestion](images/labels/suggestion.jpg)|학교에 추가되었으면 하는 것
+![help wanted](images/labels/help-wanted.jpg)|도움을 요청함
+![question](images/labels/question.jpg)|궁금한 사항을 질문함
+
+**학생회 라벨**
+라벨|의미
+-|-
+![notice](images/labels/notice.jpg)|학생회 공지
+![accept](images/labels/accept.jpg)|제시 안건이 승인됨
+![reject](images/labels/reject.jpg)|제시 안건이 기각됨
+![partial-accept](images/labels/partial-accept.jpg)|제시 안건 중 일부가 승인됨
+![partial-reject](images/labels/partial-reject.jpg)|제시 안건 중 일부가 기각됨
+![duplicate](images/labels/duplicate.jpg)|내용이 타 항목과 중복됨
+![invalid](images/labels/invalid.jpg)|제시한 안건이 현실적으로 불가능함
 
 ### 안건 진행
 1. 학생회는 안건의 진행 상황을 코멘트를 통해 알린다.
-![사진](images/screenshot3.png)
+![사진](images/screenshots/screenshot4.png)
 2. 해결 시 코멘트 후 이슈를 닫는다.
 
 ## 회의 내용 공개
