@@ -14,7 +14,8 @@
 
 #### 이슈 라벨 의미
 **학생 라벨**
-라벨|의미 
+
+라벨|의미
 -|-
 ![bug](images/labels/bug.jpg)| 고치길 원하는 학교의 문제
 ![suggestion](images/labels/suggestion.jpg)|학교에 추가되었으면 하는 것
@@ -22,6 +23,7 @@
 ![question](images/labels/question.jpg)|궁금한 사항을 질문함
 
 **학생회 라벨**
+
 라벨|의미
 -|-
 ![notice](images/labels/notice.jpg)|학생회 공지
