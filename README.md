@@ -6,6 +6,10 @@
 
 [9 번 이슈](https://github.com/DSM-HS/student-council/issues/9)를 참고해 주세요.
 
+## agendas
+
+학생회에서 준비&middot;진행&middot;보관하는 안건에 관한 문서가 들어있습니다.
+
 ## decrees
 
 규칙에 따라 만들어진 실질적인 시행 관련 문서가 들어있습니다.
